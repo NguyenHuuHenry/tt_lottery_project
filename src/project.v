@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_dashboard (
+module tt_um_NguyenHuuHenry_vga_dashboard (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
